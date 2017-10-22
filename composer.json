@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": {"CrackingCode\\": "src/"}
+  },
+  "require": {
+    "phpunit/phpunit": "dev-master"
+  }
+}
