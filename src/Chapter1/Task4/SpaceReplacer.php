@@ -4,7 +4,7 @@ namespace CrackingCode\Chapter1\Task4;
 
 class SpaceReplacer
 {
-    public function replace(string $entry, int $trueLength)
+    public function replace(string $entry, int $trueLength): string
     {
         $exitArray = [];
         $newIndex = 0;
